@@ -1,8 +1,10 @@
-DataLad extension template
-**************************
+DataLad OpenNeuroPET
+********************
 
-This is a template for creating a `DataLad <http://datalad.org>`__ extension
-that equips DataLad with additional functionality.
+`OpenNeuroPET <https://openneuropet.github.io/>`_  is a collaboration between Stanford university, NIH, MGH and the Neurobiology Research Unit (NRU) at Copenhagen University Hospital.
+Its primary objective is built around OpenNeuro and BIDS, for open (CC0) or secure (DUA-GDPR) data sharing with a united front-end (OpenNeuro) and user friendly tools for the PET-BIDS data curation.
+``datalad-openneuropet`` is a `DataLad <http://datalad.org>`__ extension
+that equips DataLad with additional functionality to support OpenNeuroPET in these aims.
 
 
 API
